@@ -170,7 +170,7 @@
                 <div class="col-10">
                     <div class="resume-box d-flex align-items-center">
                         <div>
-                            <img src="assets/images/resume-brush.png" class="img-brush">
+                            <img src="assets/images/resume-brush.png" class="img-brush img-fluid">
                         </div>
                         <div class="head-width">
                             <h4>Let Expert Do Everything For You
@@ -298,10 +298,10 @@
                                 </div>
                             </li>
                         </div>
-                        <div class="slider-arrows-temp">
-                            <button class="arrow-btn left-temp"><i class="fa-solid fa-angle-left"></i></button>
-                            <button class="arrow-btn right-temp"><i class="fa-solid fa-angle-right"></i></button>
-                        </div>
+                        <!--<div class="slider-arrows-temp">-->
+                        <!--    <button class="arrow-btn left-temp"><i class="fa-solid fa-angle-left"></i></button>-->
+                        <!--    <button class="arrow-btn right-temp"><i class="fa-solid fa-angle-right"></i></button>-->
+                        <!--</div>-->
                     </div>
 
                     <div class="text-btn text-center">
@@ -322,14 +322,14 @@
                             tempor incididunt ut labore et dolore magna aliqua</p>
                     </div>
                     <div class="job-tabs-box d-flex justify-content-between align-items-center">
-                        <div class="d-flex align-items-center w-50">
+                        <div class="d-flex align-items-center w-50 moble-set" moble-set>
                             <div><img src="assets/images/job1.png" class="jobimg"></div>
                             <div class="job-tab-text">
                                 <h4>Branch Manager - Tank and Pump Corporation</h4>
                                 <p><i class="fa-solid fa-location-dot"></i> Washington DC</p>
                             </div>
                         </div>
-                        <div>
+                        <div class="time-div">
                             <div class="tag">Full Time</div>
                             <div class="prices-job d-flex align-items-center W-100">
                                 <span>$3000</span> <span class="span-dash">-</span>
@@ -337,19 +337,19 @@
                             </div>
                             <div class="para-job">Per month</div>
                         </div>
-                        <div>
+                        <div class="applybtn">
                             <a href="javascript:void()" class="applay-btn">Apply NOW</a>
                         </div>
                     </div>
                     <div class="job-tabs-box d-flex justify-content-between align-items-center">
-                        <div class="d-flex align-items-center w-50">
+                        <div class="d-flex align-items-center w-50 moble-set">
                             <div><img src="assets/images/job2.png" class="jobimg"></div>
                             <div class="job-tab-text">
                                 <h4>Int. Business Development Executive</h4>
                                 <p><i class="fa-solid fa-location-dot"></i> Washington DC</p>
                             </div>
                         </div>
-                        <div>
+                        <div class="time-div">
                             <div class="tag">Full Time</div>
                             <div class="prices-job d-flex align-items-center W-100">
                                 <span>$3000</span> <span class="span-dash">-</span>
@@ -357,19 +357,19 @@
                             </div>
                             <div class="para-job">Per month</div>
                         </div>
-                        <div>
+                        <div class="applybtn">
                             <a href="javascript:void()" class="applay-btn">Apply NOW</a>
                         </div>
                     </div>
                     <div class="job-tabs-box d-flex justify-content-between align-items-center">
-                        <div class="d-flex align-items-center w-50">
+                        <div class="d-flex align-items-center w-50 moble-set">
                             <div><img src="assets/images/job3.png" class="jobimg"></div>
                             <div class="job-tab-text">
                                 <h4>Sourcing Manager For T-Shirts and Active Wear</h4>
                                 <p><i class="fa-solid fa-location-dot"></i> Washington DC</p>
                             </div>
                         </div>
-                        <div>
+                        <div class="time-div">
                             <div class="tag">Full Time</div>
                             <div class="prices-job d-flex align-items-center W-100">
                                 <span>$3000</span> <span class="span-dash">-</span>
@@ -377,7 +377,7 @@
                             </div>
                             <div class="para-job">Per month</div>
                         </div>
-                        <div>
+                        <div class="applybtn">
                             <a href="javascript:void()" class="applay-btn">Apply NOW</a>
                         </div>
                     </div>
@@ -529,10 +529,10 @@
                                 </div>
                             </li>
                         </div>
-                        <div class="slider-arrows-testi">
-                            <button class="arrow-btn left-testi"><i class="fa-solid fa-angle-left"></i></button>
-                            <button class="arrow-btn right-testi"><i class="fa-solid fa-angle-right"></i></button>
-                        </div>
+                        <!--<div class="slider-arrows-testi">-->
+                        <!--    <button class="arrow-btn left-testi"><i class="fa-solid fa-angle-left"></i></button>-->
+                        <!--    <button class="arrow-btn right-testi"><i class="fa-solid fa-angle-right"></i></button>-->
+                        <!--</div>-->
                     </div>
                 </div>
                 <div class="col-12">
