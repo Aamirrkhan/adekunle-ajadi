@@ -2,10 +2,10 @@
         <div class="logoarea-footer">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
-                    <div class="col-md-6 col-12">
-                        <a href="home.html"><img src="assets/images/header-logo.png" class="img-fluid"></a>
+                    <div class="col-sm-6 col-12">
+                        <a href="builder.php"><img src="assets/images/header-logo.png" class="img-fluid"></a>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-sm-6 col-12">
                         <div class="social-icons ">
                             <a href="javascript:void()"><i class="fa-brands fa-linkedin-in"></i></a>
                             <a href="javascript:void()"><i class="fa-brands fa-instagram"></i></a>
@@ -65,9 +65,9 @@
                     <div class="col-md-4 col-12">
                         <div class="footer-nav">
                             <h4>Additional Resources</h4>
-                            <li><a href="javascript:void()">About Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
                             <li><a href="javascript:void()">Product Reviews</a></li>
-                            <li><a href="javascript:void()">Blogs</a></li>
+                            <li><a href="blog.php">Blogs</a></li>
                             <li><a href="javascript:void()">Join Our Team</a></li>
                             <li><a href="javascript:void()">Affiliate Program</a></li>
                             <li><a href="javascript:void()">Career Experts</a></li>
@@ -95,7 +95,7 @@
                             </div>
                             <div class="col-lg-6 col-12 p-0">
                                 <div class="d-flex align-items-center copy-right-link">
-                                    <p><a href="">Privacy Policy - Terms & Conditions</a></p>
+                                    <p><a href="">Privacy Policy</a></p>
                                 <span class="span-dash"> -</span>
                                 <p><a href="">Terms & Conditions</a></p>
                                 </div>
