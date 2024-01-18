@@ -68,7 +68,7 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="javascript:void()">Product Reviews</a></li>
                             <li><a href="blog.php">Blogs</a></li>
-                            <li><a href="javascript:void()">Join Our Team</a></li>
+                            <li><a href="join.php">Join Our Team</a></li>
                             <li><a href="javascript:void()">Affiliate Program</a></li>
                             <li><a href="javascript:void()">Career Experts</a></li>
                         </div>
@@ -77,9 +77,9 @@
                         <div class="footer-nav">
                             <h4>Support</h4>
                             <li><a href="javascript:void()">Help & Support</a></li>
-                            <li><a href="javascript:void()">Contact Us</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
                             <li><a href="javascript:void()">Forgot Password</a></li>
-                            <li><a href="javascript:void()">FAQs</a></li>
+                            <li><a href="faq.php">FAQs</a></li>
                             <li><a href="javascript:void()">Do Not Sell or Share My Info</a></li>
                         </div>
                     </div>
