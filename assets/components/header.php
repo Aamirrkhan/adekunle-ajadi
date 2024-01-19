@@ -58,7 +58,7 @@
                         <div class="dropdown">
                           <a
                             class="dropdown-toggle"
-                            href="#"
+                            href="javascript:void()"
                             role="button"
                             id="dropdownMenuLink"
                             data-bs-toggle="dropdown"
@@ -71,9 +71,9 @@
                             class="dropdown-menu"
                             aria-labelledby="dropdownMenuLink"
                           >
-                            <li><a class="dropdown-item" href="#">RESUME</a></li>
-                            <li><a class="dropdown-item" href="#">RESUME</a></li>
-                            <li><a class="dropdown-item" href="#">RESUME</a></li>
+                            <li><a class="dropdown-item" href="resume-letter.php">RESUME</a></li>
+                            <li><a class="dropdown-item" href="resume-letter.php">RESUME</a></li>
+                            <li><a class="dropdown-item" href="resume-letter.php">RESUME</a></li>
                           </ul>
                         </div>
                       </li>
@@ -81,7 +81,7 @@
                         <div class="dropdown">
                           <a
                             class="dropdown-toggle"
-                            href="#"
+                            href="javascript:void()"
                             role="button"
                             id="dropdownMenuLink"
                             data-bs-toggle="dropdown"
@@ -95,13 +95,13 @@
                             aria-labelledby="dropdownMenuLink"
                           >
                             <li>
-                              <a class="dropdown-item" href="#">COVER LETTER</a>
+                              <a class="dropdown-item" href="cover-letter.php">COVER LETTER</a>
                             </li>
                             <li>
-                              <a class="dropdown-item" href="#">COVER LETTER</a>
+                              <a class="dropdown-item" href="cover-letter.php">COVER LETTER</a>
                             </li>
                             <li>
-                              <a class="dropdown-item" href="#">COVER LETTER</a>
+                              <a class="dropdown-item" href="cover-letter.php">COVER LETTER</a>
                             </li>
                           </ul>
                         </div>
@@ -145,3 +145,18 @@
         </div>
       </div>
     </header>
+
+    <div class="loader-resume">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-10">
+              <div class="laoder-section">
+                  <img src="assets/images/loader-img.png">
+                  <h4>Let's Create a resume for the </h4>
+                  <h1>top sales associate</h1>
+                  <h4>in you! </h4>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>

@@ -8,7 +8,7 @@ include "assets/components/header.php";
                 <ul class="d-flex align-items-center humb-links-list">
                     <li><a href="#!"><i class="fa-solid fa-house"></i> Home</a></li>
                     <span>></span>
-                    <li><a href="cover-letter.php">Cover Letter Templates</a></li>
+                    <li><a href="cover-letter.php">Job-Winning Resume Templates</a></li>
                 </ul>
             </div>
         </div>
@@ -19,10 +19,10 @@ include "assets/components/header.php";
         <div class="row">
             <div class="col-12">
                 <div class="blog-text-banner mb-5">
-                    <h2 class="sec-hd">Cover Letter Templates</h2>
+                    <h2 class="sec-hd">Job-Winning Resume Templates</h2>
                     <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard <br> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it</p>
                     <div class="banner-btns cover-bnr-btn">
-                        <a href="#!">Choose Template</a>
+                        <a href="#!">BUILD RESUME</a>
                     </div>
                     <div class="cover-list-btn">
                         <li><a href="javascript:void()">
