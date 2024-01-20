@@ -140,273 +140,279 @@ include "assets/components/header.php";
             <div class="template-selector">
                 <div class="row">
                     <div class="col-lg-4 col-12 mb-5">
-                        <div class="template-box">
-                            <div class="bg-blue color-code">
-                                <h1>E M I LY D AV I D</h1>
-                                <h5>SENIOR MAINTENANCE MANAGER</h5>
-                            </div>
-                            <div class="temp-pd-box">
-                                <div class="row">
-                                    <div class="col-6">
-                                        <div class="float-end text-right">
-                                            <h4 class="cv-hd text-clr">C O N TA C T</h4>
-                                            <p><b>Phone</b> <a href="telto:(234) 567-8900">(234) 567-8900</a></p>
-                                            <p><b>Email</b> <a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a></p>
-                                            <p><b>Address</b> North Brunswick , New york 08873</p>
+                        <div class="checkcolors">
+                            <div class="template-box">
+                                <div class="bg-blue color-code">
+                                    <h1>E M I LY D AV I D</h1>
+                                    <h5>SENIOR MAINTENANCE MANAGER</h5>
+                                </div>
+                                <div class="temp-pd-box">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="float-end text-right">
+                                                <h4 class="cv-hd text-clr">C O N TA C T</h4>
+                                                <p><b>Phone</b> <a href="telto:(234) 567-8900">(234) 567-8900</a></p>
+                                                <p><b>Email</b> <a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a></p>
+                                                <p><b>Address</b> North Brunswick , New york 08873</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-left">
+                                                <h4 class="cv-hd text-clr">E X P E R I E N C E</h4>
+                                                <p><b>Phone</b> <a href="telto:(234) 567-8900">(234) 567-8900</a></p>
+                                                <p><b>Email</b> <a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a></p>
+                                                <p><b>Address</b> North Brunswick , New york 08873</p>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="col-6">
-                                        <div class="text-left">
-                                            <h4 class="cv-hd text-clr">E X P E R I E N C E</h4>
-                                            <p><b>Phone</b> <a href="telto:(234) 567-8900">(234) 567-8900</a></p>
-                                            <p><b>Email</b> <a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a></p>
-                                            <p><b>Address</b> North Brunswick , New york 08873</p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="float-end text-right">
+                                                <h4 class="cv-hd text-clr">C A R E E R O B J E C T I V E</h4>
+                                                <p>Resume Summary Strong attention to detail with a
+                                                    professional commitment to high quality deliverables,
+                                                    Strong verbal, and written communication with the ability
+                                                    to effectively critical details into actionable highlights.
+                                                    Including the ability to produce usable and maintainable
+                                                    documentation. Experience architecting and supporting
+                                                    highly available and highly scalable infrastructure.
+                                                    Passionate about new knowledge and innovation. Ability
+                                                    to grasp technical concepts quickly and apply that
+                                                    knowledge to Maintenance and Engineering efforts within
+                                                    the team. Knowledge in building distributed, highly
+                                                    available applications. Manage engineering team and
+                                                    maintain strategic and enablement platforms with a view
+                                                    to improving scalability, reliability, performance, and
+                                                    resilience. Ability to work at a high level of professionalism
+                                                    and quality</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-left">
+                                                <h6 class="cv-smhd text-clr">July 2020 - Present</h6>
+                                                <p class="mb-1"><b>Maintenance And Engineering Manager
+                                                        lott Incorporation, Texas</b></p>
+                                                <li>Provides leadership and direction to the Maintenance and Engineering Team and inspire high performance through effective goal setting and performance measurement and oversees dayto-day activities of the Maintenance and Engineering Department Effectively coordinates, plans, and executes the Preventive Maintenance Program, and technologies to continually plan preventive maintenance activities</li>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row">
-                                    <div class="col-6">
-                                        <div class="float-end text-right">
-                                            <h4 class="cv-hd text-clr">C A R E E R O B J E C T I V E</h4>
-                                            <p>Resume Summary Strong attention to detail with a
-                                                professional commitment to high quality deliverables,
-                                                Strong verbal, and written communication with the ability
-                                                to effectively critical details into actionable highlights.
-                                                Including the ability to produce usable and maintainable
-                                                documentation. Experience architecting and supporting
-                                                highly available and highly scalable infrastructure.
-                                                Passionate about new knowledge and innovation. Ability
-                                                to grasp technical concepts quickly and apply that
-                                                knowledge to Maintenance and Engineering efforts within
-                                                the team. Knowledge in building distributed, highly
-                                                available applications. Manage engineering team and
-                                                maintain strategic and enablement platforms with a view
-                                                to improving scalability, reliability, performance, and
-                                                resilience. Ability to work at a high level of professionalism
-                                                and quality</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="text-left">
-                                            <h6 class="cv-smhd text-clr">July 2020 - Present</h6>
-                                            <p class="mb-1"><b>Maintenance And Engineering Manager
-                                                    lott Incorporation, Texas</b></p>
-                                            <li>Provides leadership and direction to the Maintenance and Engineering Team and inspire high performance through effective goal setting and performance measurement and oversees dayto-day activities of the Maintenance and Engineering Department Effectively coordinates, plans, and executes the Preventive Maintenance Program, and technologies to continually plan preventive maintenance activities</li>
-                                        </div>
-                                    </div>
+
+                                <div class="btn-template">
+                                    <a href="#!" class="template-btn" tabindex="0"><i class="fa-regular fa-pen-to-square"></i> USE THIS template</a>
+                                </div>
+
+                            </div>
+                            <div class="radio-btns-list mt-5 mrg-lft">
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="blue circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#19509f">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="grey circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#89ACAE">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="brown circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#BA7041">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="green circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#697C4D">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="yellow circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#D09F4F">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="ligthblack circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#2F2F2F">
+                                    </label>
                                 </div>
                             </div>
-
-                            <div class="btn-template">
-                                <a href="#!" class="template-btn" tabindex="0"><i class="fa-regular fa-pen-to-square"></i> USE THIS template</a>
-                            </div>
-
+                            <h6 class="hd-temp">Minimalist</h6>
+                            <p class="para-tm">Our “Minimalist” resume template is easy for readers to digest with its clean font and subtle color accents.</p>
                         </div>
-                        <div class="radio-btns-list">
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="blue circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#19509f">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="grey circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#89ACAE">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="brown circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#BA7041">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="green circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#697C4D">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="yellow circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#D09F4F">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="ligthblack circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#2F2F2F">
-                                </label>
-                            </div>
-                        </div>
-                        <h6 class="hd-temp">Minimalist</h6>
-                        <p class="para-tm">Our “Minimalist” resume template is easy for readers to digest with its clean font and subtle color accents.</p>
                     </div>
                     <div class="col-lg-4 col-12 mb-5">
-                        <div class="template-box">
-                            <h1 class="secod-temp">EMILY DAVID</h1>
-                            <div class="second-bg-tm color-code">
-                                <h5>SENIOR MAINTENANCE MANAGER</h5>
-                            </div>
-                            <hr class="color-code bg-set-hr">
-                            <div class="temp-pd-box">
-                                <div class="row">
-                                    <div class="col-5">
-                                        <div class="float-end text-right">
-                                            <h4 class="cv-hd text-clr">Contact</h4>
-                                            <p> <a href="telto:(234) 567-8900">(234) 567-8900</a> <i class="fa-solid fa-phone text-clr"></i></p>
-                                            <p> <a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a> <i class="fa-solid fa-envelope text-clr"></i></p>
-                                            <p>North Brunswick , New york 08873 <i class="fa-solid fa-location-dot text-clr"></i></p>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="text-left">
-                                            <h4 class="cv-hd text-clr">Career Objective</h4>
-                                            <p>Resume Summary Strong attention to detail with a professional commitment to high quality deliverables</p>
-                                        </div>
-                                    </div>
+                        <div class="checkcolors">
+                            <div class="template-box">
+                                <h1 class="secod-temp">EMILY DAVID</h1>
+                                <div class="second-bg-tm color-code">
+                                    <h5>SENIOR MAINTENANCE MANAGER</h5>
                                 </div>
-                                <div class="row">
-
-                                    <div class="col-12">
-                                        <div class="text-left">
-                                            <h4 class="cv-hd text-clr border-btm">Experience</h4>
-                                            <div class="d-flex justify-content-between">
-                                                <p class="mb-1"><b>MAINTENANCE AND ENGINEERING MANAGER</b></p>
-                                                <p><b>Jul 2020 - Present</b></p>
+                                <hr class="color-code bg-set-hr">
+                                <div class="temp-pd-box">
+                                    <div class="row">
+                                        <div class="col-5">
+                                            <div class="float-end text-right">
+                                                <h4 class="cv-hd text-clr">Contact</h4>
+                                                <p> <a href="telto:(234) 567-8900">(234) 567-8900</a> <i class="fa-solid fa-phone text-clr"></i></p>
+                                                <p> <a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a> <i class="fa-solid fa-envelope text-clr"></i></p>
+                                                <p>North Brunswick , New york 08873 <i class="fa-solid fa-location-dot text-clr"></i></p>
                                             </div>
-                                            <p><b>LOTT INCORPORATION — Texas</b></p>
-                                            <li>Provides leadership and direction to the Maintenance and Engineering Team and inspire high performance through effective goal setting and performance measurement and oversees day-to-day activities of the Maintenance and Engineering Department Effectively coordinates, plans, and executes the Preventive Maintenance Program, and technologies to continually plan preventive maintenance activities</li>
-                                            <li>Evaluate and adopt industry best practice maintenance strategies to remove barriers, reduce costs, repairs for urgent, Program Logical Control critical situations</li>
-                                            <li>Track work order history and equipment status, monitor the maintenance organization's performance</li>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-left">
+                                                <h4 class="cv-hd text-clr">Career Objective</h4>
+                                                <p>Resume Summary Strong attention to detail with a professional commitment to high quality deliverables</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+
+                                        <div class="col-12">
+                                            <div class="text-left">
+                                                <h4 class="cv-hd text-clr border-btm">Experience</h4>
+                                                <div class="d-flex justify-content-between">
+                                                    <p class="mb-1"><b>MAINTENANCE AND ENGINEERING MANAGER</b></p>
+                                                    <p><b>Jul 2020 - Present</b></p>
+                                                </div>
+                                                <p><b>LOTT INCORPORATION — Texas</b></p>
+                                                <li>Provides leadership and direction to the Maintenance and Engineering Team and inspire high performance through effective goal setting and performance measurement and oversees day-to-day activities of the Maintenance and Engineering Department Effectively coordinates, plans, and executes the Preventive Maintenance Program, and technologies to continually plan preventive maintenance activities</li>
+                                                <li>Evaluate and adopt industry best practice maintenance strategies to remove barriers, reduce costs, repairs for urgent, Program Logical Control critical situations</li>
+                                                <li>Track work order history and equipment status, monitor the maintenance organization's performance</li>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="btn-template">
-                                <a href="#!" class="template-btn" tabindex="0"><i class="fa-regular fa-pen-to-square"></i> USE THIS template</a>
-                            </div>
+                                <div class="btn-template">
+                                    <a href="#!" class="template-btn" tabindex="0"><i class="fa-regular fa-pen-to-square"></i> USE THIS template</a>
+                                </div>
 
+                            </div>
+                            <div class="radio-btns-list mt-5 mrg-lft">
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="blue circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#19509f">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="grey circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#89ACAE">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="brown circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#BA7041">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="green circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#697C4D">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="yellow circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#D09F4F">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="ligthblack circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#2F2F2F">
+                                    </label>
+                                </div>
+                            </div>
+                            <h6 class="hd-temp">Minimalist</h6>
+                            <p class="para-tm">Our “Minimalist” resume template is easy for readers to digest with its clean font and subtle color accents.</p>
                         </div>
-                        <div class="radio-btns-list">
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="blue circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#19509f">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="grey circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#89ACAE">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="brown circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#BA7041">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="green circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#697C4D">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="yellow circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#D09F4F">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="ligthblack circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#2F2F2F">
-                                </label>
-                            </div>
-                        </div>
-                        <h6 class="hd-temp">Minimalist</h6>
-                        <p class="para-tm">Our “Minimalist” resume template is easy for readers to digest with its clean font and subtle color accents.</p>
                     </div>
                     <div class="col-lg-4 col-12 mb-5">
-                        <div class="template-box">
-                            <div class="third-template">
-                                <div class="row">
-                                    <div class="col-6">
-                                        <div class="left-area color-code">
-                                            <h1>DAYI GUTTY</h1>
-                                            <h5>MANAGER OF OPERATIONS</h5>
-                                            <h6 class="pt-4 border-btm contact-thor">CONTACT</h6>
-                                            <p><i class="fa-solid fa-phone text-clr"></i><a href="tel:(234) 567-8900">(234) 567-8900</a></p>
-                                            <p><i class="fa-solid fa-envelope text-clr"></i><a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a></p>
-                                            <p><i class="fa-solid fa-location-dot text-clr"></i>North Brunswick , New york 08873 </p>
-                                            <h6 class="pt-4 border-btm contact-thor">CAREER OBJECTIVE</h6>
-                                            <p>Resume Summary Strong attention to detail with a professional commitment to high quality deliverables, Strong verbal, and written communication with the ability to effectively critical details into actionable highlights. Including the ability to produce usable and maintainable documentation. Experience architecting and supporting highly available and highly scalable infrastructure. </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-6 p-0">
-                                        <div class="text-left third-pd-srt">
-                                            <h4 class="cv-hd text-clr border-btm">Experience</h4>
-                                            <div class="">
-                                                <p><b>Jul 2020 - Present</b></p>
-                                                <p class="mb-1"><b>MAINTENANCE AND ENGINEERING MANAGER</b></p>
+                        <div class="checkcolors">
+                            <div class="template-box">
+                                <div class="third-template">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="left-area color-code">
+                                                <h1>DAYI GUTTY</h1>
+                                                <h5>MANAGER OF OPERATIONS</h5>
+                                                <h6 class="pt-4 border-btm contact-thor">CONTACT</h6>
+                                                <p><i class="fa-solid fa-phone text-clr"></i><a href="tel:(234) 567-8900">(234) 567-8900</a></p>
+                                                <p><i class="fa-solid fa-envelope text-clr"></i><a href="mailto:Emily@yahoo.com">Emily@yahoo.com</a></p>
+                                                <p><i class="fa-solid fa-location-dot text-clr"></i>North Brunswick , New york 08873 </p>
+                                                <h6 class="pt-4 border-btm contact-thor">CAREER OBJECTIVE</h6>
+                                                <p>Resume Summary Strong attention to detail with a professional commitment to high quality deliverables, Strong verbal, and written communication with the ability to effectively critical details into actionable highlights. Including the ability to produce usable and maintainable documentation. Experience architecting and supporting highly available and highly scalable infrastructure. </p>
                                             </div>
-                                            <p><b>LOTT INCORPORATION — Texas</b></p>
-                                            <li>Provides leadership and direction to the Maintenance and Engineering Team and inspire high performance through effective goal setting and performance measurement and oversees day-to-day activities of the Maintenance and Engineering Department Effectively coordinates, plans, and executes the Preventive Maintenance Program, and technologies to continually plan preventive maintenance activities</li>
-                                            <li>Evaluate and adopt industry best practice maintenance strategies to remove barriers, reduce costs, repairs for urgent, Program Logical Control critical situations</li>
-                                            <li>Track work order history and equipment status, monitor the maintenance organization's performance</li>
+                                        </div>
+                                        <div class="col-6 p-0">
+                                            <div class="text-left third-pd-srt">
+                                                <h4 class="cv-hd text-clr border-btm">Experience</h4>
+                                                <div class="">
+                                                    <p><b>Jul 2020 - Present</b></p>
+                                                    <p class="mb-1"><b>MAINTENANCE AND ENGINEERING MANAGER</b></p>
+                                                </div>
+                                                <p><b>LOTT INCORPORATION — Texas</b></p>
+                                                <li>Provides leadership and direction to the Maintenance and Engineering Team and inspire high performance through effective goal setting and performance measurement and oversees day-to-day activities of the Maintenance and Engineering Department Effectively coordinates, plans, and executes the Preventive Maintenance Program, and technologies to continually plan preventive maintenance activities</li>
+                                                <li>Evaluate and adopt industry best practice maintenance strategies to remove barriers, reduce costs, repairs for urgent, Program Logical Control critical situations</li>
+                                                <li>Track work order history and equipment status, monitor the maintenance organization's performance</li>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="btn-template">
-                                <a href="#!" class="template-btn" tabindex="0"><i class="fa-regular fa-pen-to-square"></i> USE THIS template</a>
-                            </div>
+                                <div class="btn-template">
+                                    <a href="#!" class="template-btn" tabindex="0"><i class="fa-regular fa-pen-to-square"></i> USE THIS template</a>
+                                </div>
 
+                            </div>
+                            <div class="radio-btns-list mt-5 mrg-lft">
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="blue circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#19509f">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="grey circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#89ACAE">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="brown circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#BA7041">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="green circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#697C4D">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="yellow circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#D09F4F">
+                                    </label>
+                                </div>
+                                <div class="color-radio-box">
+                                    <label for="blue">
+                                        <span class="ligthblack circle-radio"></span>
+                                        <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#2F2F2F">
+                                    </label>
+                                </div>
+                            </div>
+                            <h6 class="hd-temp">Minimalist</h6>
+                            <p class="para-tm">Our “Minimalist” resume template is easy for readers to digest with its clean font and subtle color accents.</p>
                         </div>
-                        <div class="radio-btns-list">
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="blue circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#19509f">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="grey circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#89ACAE">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="brown circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#BA7041">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="green circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#697C4D">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="yellow circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#D09F4F">
-                                </label>
-                            </div>
-                            <div class="color-radio-box">
-                                <label for="blue">
-                                    <span class="ligthblack circle-radio"></span>
-                                    <input type="radio" value="" name="color" id="blue" class="colorbox" data-bgcolor="#2F2F2F">
-                                </label>
-                            </div>
-                        </div>
-                        <h6 class="hd-temp">Minimalist</h6>
-                        <p class="para-tm">Our “Minimalist” resume template is easy for readers to digest with its clean font and subtle color accents.</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -509,7 +515,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -597,7 +603,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -674,7 +680,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -816,7 +822,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -904,7 +910,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -981,7 +987,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -1124,7 +1130,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -1212,7 +1218,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -1289,7 +1295,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -1433,7 +1439,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -1521,7 +1527,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>
@@ -1598,7 +1604,7 @@ include "assets/components/header.php";
                             </div>
 
                         </div>
-                        <div class="radio-btns-list">
+                        <div class="radio-btns-list mt-5 mrg-lft">
                             <div class="color-radio-box">
                                 <label for="blue">
                                     <span class="blue circle-radio"></span>

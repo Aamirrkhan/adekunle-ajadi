@@ -126,10 +126,61 @@ p.step-center-para a {
     padding: 23px 50px;
     border-radius: 10px;
 }
-.fields-row {
+.tabs .fields-row {
     gap: 40px;
     flex-wrap: wrap;
     width: 70%;
     margin: 0 auto;
     margin-top: 40px;
+}
+.fields-row {
+  gap: 30px;
+  width: 70%;
+  flex-wrap: wrap;
+  margin: 24px auto 20px;
+}
+.mgr-set {
+  margin: 40px auto ;
+  width: fit-content;
+}
+
+.mgr-set input {
+  border-radius: 12px;
+  border: 1px solid #D3D9DE;
+  background: #FFF;
+  display: inline-flex;
+  padding: 8px 81px 11px 12px;
+  align-items: center;
+  color: #B5B5B5;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.17px;
+  outline: none;
+}
+
+.banner-btns button {
+  color: white;
+  background: #3e94e4;
+  text-align: center;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 13px 30px;
+  text-decoration: none;
+  border: 1px solid #007bff;
+  margin-right: 30px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.banner-btns.cover-bnr-btn {
+  width: fit-content;
+  margin: 0 auto;
 }
