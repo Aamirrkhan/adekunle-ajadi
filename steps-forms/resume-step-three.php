@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="../assets/css/slick.css" />
     <link rel="stylesheet" href="../assets/css/reset.css" />
+    <link rel="stylesheet" href="../assets/css/reponsive.css" />
     <link rel="stylesheet" href="../assets/css/steps-form.css" />
     <link rel="shortcut icon" href="../assets/images/logo-icon.png" type="image/x-icon" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -37,7 +38,7 @@
         <div class="container-fluid">
             <div class="cont-bg-set">
                 <div class="row justify-content-center">
-                    <div class="col-9">
+                    <div class="col-12">
                         <div class="step-hd">
                             <h1>How much experience do you have? </h1>
                             <p class="step-center-para mt-4">This will help us recommend the best resume templates for your experience level.</p>

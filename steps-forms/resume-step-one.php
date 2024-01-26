@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="../assets/css/slick.css" />
-    <link rel="stylesheet" href="../assets/css/reset.css" />
+    <link rel="stylesheet" href="../assets/css/reset.css" />    
+    <link rel="stylesheet" href="../assets/css/reponsive.css" />
     <link rel="stylesheet" href="../assets/css/steps-form.css" />
     <link rel="shortcut icon" href="../assets/images/logo-icon.png" type="image/x-icon" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -37,13 +38,16 @@
         <div class="container-fluid">
             <div class="cont-bg-set">
                 <div class="row justify-content-center">
-                    <div class="col-9">
+                    <div class="col-10">
                         <div class="step-hd">
                             <h1>How would you like to start?</h1>
                         </div>
                         <form action="">
                             <div class="d-flex justify-content-center fields-row">
                                 <div class="btns-radios">
+                                    <div class="recom-label">
+                                        <p>Recommended</p>
+                                    </div>
                                     <input type="radio" placeholder="Build a New Resume" id="build-resume" name="resume">
                                     <label class="btns-form" for="build-resume">
                                         Build a New Resume

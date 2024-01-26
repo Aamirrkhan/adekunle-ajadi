@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/slick.css" />
     <link rel="stylesheet" href="assets/css/reset.css" />
@@ -54,7 +55,7 @@
                       <li class="menuclosedbtn-up"><button class="mobile-menu-closed"><i class="fa-solid fa-xmark"></i></button></li>
                       <li class="none-header"><a href="." class="login-btn-header humber-show">Log in</a></li>
                       <li><a href="builder.php">BUilder</a></li>
-                      <li>
+                      <li class="resume-drop">
                         <div class="dropdown">
                           <a
                             class="dropdown-toggle"
@@ -77,7 +78,7 @@
                           </ul>
                         </div>
                       </li>
-                      <li>
+                      <li class="coverr-drop">
                         <div class="dropdown">
                           <a
                             class="dropdown-toggle"

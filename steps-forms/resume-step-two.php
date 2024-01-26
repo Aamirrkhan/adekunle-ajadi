@@ -37,7 +37,7 @@
         <div class="container-fluid">
             <div class="cont-bg-set">
                 <div class="row justify-content-center">
-                    <div class="col-9">
+                    <div class="col-10">
                         <div class="step-hd">
                             <h1>What’s your highest education level </h1>
                             <p class="step-center-para mt-4">This will help us recommend the best resume templates for your experience level.</p>

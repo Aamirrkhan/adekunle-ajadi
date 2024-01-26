@@ -19,8 +19,8 @@ include "assets/components/header.php";
         <div class="row">
             <div class="col-12">
                 <div class="blog-text-banner mb-5">
-                    <h2 class="sec-hd">Blogs</h2>
-                    <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard <br> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it</p>
+                    <h2 class="sec-hd" data-aos="fade-up">Blogs</h2>
+                    <p class="text-center" data-aos="fade-up">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard <br> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it</p>
                 </div>
             </div>
         </div>
