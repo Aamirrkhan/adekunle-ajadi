@@ -5,7 +5,8 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 col-12">
-            <div class="dollar-arwa">
+            <div class="banner-text-build" data-aos="fade-up">
+                <div class="dollar-arwa">
               <p>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -65,6 +66,7 @@
                 <a href="#!">CONTACT</a>
               </div>
             </div>
+            </div>
           </div>
           <div class="col-lg-6 col-12">
             <div class="banner-img">
@@ -80,7 +82,7 @@
             <div class="row justify-content-between">
                 <div class="col-lg-6 col-12">
                     <div class="plate-list">
-                        <div class="platform-list-box mb-4">
+                        <div class="platform-list-box mb-4" data-aos="fade-right" data-aos-offset="150" data-aos-easing="ease-in-sine">
                             <div class="d-flex align-items-center">
                                 <div class="img-plat">
                                     <img src="assets/images/plat1.png" class="platform-images">
@@ -92,7 +94,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="platform-list-box mb-4">
+                        <div class="platform-list-box mb-4" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine">
                             <div class="d-flex align-items-center">
                                 <div class="img-plat">
                                     <img src="assets/images/plat2.png" class="platform-images">
@@ -104,7 +106,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="platform-list-box mb-4">
+                        <div class="platform-list-box mb-4" data-aos="fade-right" data-aos-offset="250" data-aos-easing="ease-in-sine">
                             <div class="d-flex align-items-center">
                                 <div class="img-plat">
                                     <img src="assets/images/plat3.png" class="platform-images">
@@ -119,7 +121,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
-                    <div class="platform-textdiv">
+                    <div class="platform-textdiv"  data-aos="fade-up" data-aos-offset="150" data-aos-easing="ease-in-sine">
                         <h2>Why Choose Our Platform?</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum
                             risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet
@@ -143,7 +145,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-6 col-12">
-                    <div class="deliver-textarea">
+                    <div class="deliver-textarea"  data-aos="fade-up">
                         <h4>We Deliver The Best</h4>
                         <ul class="p-0 m-0">
                             <li class="deliver-list"><i class="fa-solid fa-check"></i>Proven Resume Templates to increase Hiring Chance</li>
@@ -156,7 +158,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
-                    <div class="deliver-image">
+                    <div class="deliver-image" data-aos="fade-up">
                         <img src="assets/images/pdf1.png" class="img-fluid">
                     </div>
                 </div>
@@ -168,7 +170,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-10">
-                    <div class="resume-box d-flex align-items-center">
+                    <div class="resume-box d-flex align-items-center" data-aos="fade-up">
                         <div>
                             <img src="assets/images/resume-brush.png" class="img-brush img-fluid">
                         </div>
@@ -192,7 +194,7 @@
                     <h1 class="step-resume text-center mb-5">Build A Resume in 4 Easy Steps</h1>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 mb-3">
-                    <div class="step-box text-center">
+                    <div class="step-box text-center" data-aos="fade-up">
                         <div class="step-img-number">
                             <img src="assets/images/step1.png" alt="" srcset="">
                             <span>1</span>
@@ -201,7 +203,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 mb-3">
-                    <div class="step-box text-center">
+                    <div class="step-box text-center" data-aos="fade-up">
                         <div class="step-img-number">
                             <img src="assets/images/step2.png" alt="" srcset="">
                             <span>2</span>
@@ -210,7 +212,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 mb-3">
-                    <div class="step-box text-center">
+                    <div class="step-box text-center" data-aos="fade-up">
                         <div class="step-img-number">
                             <img src="assets/images/step3.png" alt="" srcset="">
                             <span>3</span>
@@ -219,7 +221,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 mb-3">
-                    <div class="step-box text-center">
+                    <div class="step-box text-center" data-aos="fade-up">
                         <div class="step-img-number">
                             <img src="assets/images/step4.png" alt="" srcset="">
                             <span>4</span>
@@ -235,7 +237,7 @@
         <div class="container-fluid p-0">
             <div class="row">
                 <div class="col-12">
-                    <div class="text-center create-text">
+                    <div class="text-center create-text" data-aos="zoom-in">
                         <h2 class="sec-hd">Our Creative Templates</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br>
                             tempor incididunt ut labore et dolore magna aliqua</p>
@@ -316,7 +318,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="job-textarea">
+                    <div class="job-textarea" data-aos="zoom-in">
                         <h2 class="sec-hd">Recent Job Listing</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br>
                             tempor incididunt ut labore et dolore magna aliqua</p>
@@ -395,14 +397,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="job-textarea">
+                    <div class="job-textarea" data-aos="zoom-in">
                         <h2 class="sec-hd">Our Main Features</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br>
                             tempor incididunt ut labore et dolore magna aliqua</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 mb-5">
-                    <div class="feature-box text-center">
+                    <div class="feature-box text-center" data-aos="fade-up" data-aos-duration="150">
                         <img src="assets/images/f1.png" alt="">
                         <h5>Proven CV Templates to increase Hiring Chance</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur
@@ -411,7 +413,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 mb-5">
-                    <div class="feature-box text-center">
+                    <div class="feature-box text-center" data-aos="fade-up" data-aos-duration="160">
                         <img src="assets/images/f2.png" alt="">
                         <h5>Creative, Modern and Clean Templates Design</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur
@@ -420,7 +422,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 mb-5">
-                    <div class="feature-box text-center">
+                    <div class="feature-box text-center" data-aos="fade-up" data-aos-duration="170">
                         <img src="assets/images/f3.png" alt="">
                         <h5>Easy and Intuitive Online CV and Resume Builder</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur
@@ -429,7 +431,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 mb-5">
-                    <div class="feature-box text-center">
+                    <div class="feature-box text-center" data-aos="fade-up" data-aos-duration="180">
                         <img src="assets/images/f4.png" alt="">
                         <h5>Free to use. Developed by hiring professionals.</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur
@@ -438,7 +440,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 mb-5">
-                    <div class="feature-box text-center">
+                    <div class="feature-box text-center" data-aos="fade-up" data-aos-duration="190">
                         <img src="assets/images/f5.png" alt="">
                         <h5>Recruiter Approved Phrases with Module Notification</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur
@@ -447,7 +449,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 mb-5">
-                    <div class="feature-box text-center">
+                    <div class="feature-box text-center" data-aos="fade-up" data-aos-duration="200">
                         <img src="assets/images/f6.png" alt="">
                         <h5>Fast Easy CV and Resume Formatting</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur
@@ -464,7 +466,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="job-textarea">
+                    <div class="job-textarea"  data-aos="zoom-in">
                         <h2 class="sec-hd">Your Success, Our Inspiration</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br>
                             tempor incididunt ut labore et dolore magna aliqua</p>

@@ -55,8 +55,8 @@
                     <div class="col-md-4 col-12">
                         <div class="footer-nav">
                             <h4>Policies</h4>
-                            <li><a href="javascript:void()">Terms & Conditions</a></li>
-                            <li><a href="javascript:void()">Privacy Policy</a></li>
+                            <li><a href="terms-and-condition.php">Terms & Conditions</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
                             <li><a href="javascript:void()">CCPA/GDPR</a></li>
                             <li><a href="javascript:void()">Accessibility</a></li>
                             <li><a href="javascript:void()">Editorial</a></li>
@@ -95,9 +95,9 @@
                             </div>
                             <div class="col-lg-6 col-12 p-0">
                                 <div class="d-flex align-items-center copy-right-link">
-                                    <p><a href="">Privacy Policy</a></p>
+                                    <p><a href="privacy-policy.php">Privacy Policy</a></p>
                                 <span class="span-dash"> -</span>
-                                <p><a href="">Terms & Conditions</a></p>
+                                <p><a href="terms-and-condition.php">Terms & Conditions</a></p>
                                 </div>
                             </div>
                         </div>
@@ -110,9 +110,13 @@
     </footer>
 
     <script src="assets/js/jquery.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
     <script src="assets/js/recall.js"></script>
     <script src="assets/js/language.js"></script>
+    <script>
+      AOS.init();
+    </script>
   </body>
 </html>

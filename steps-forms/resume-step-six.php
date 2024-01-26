@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="../assets/css/slick.css" />
     <link rel="stylesheet" href="../assets/css/reset.css" />
+    <link rel="stylesheet" href="../assets/css/reponsive.css" />
     <link rel="stylesheet" href="../assets/css/steps-form.css" />
     <link rel="stylesheet" href="../assets/css/style.css" />
     <link rel="shortcut icon" href="../assets/images/logo-icon.png" type="image/x-icon" />

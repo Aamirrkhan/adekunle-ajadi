@@ -19,11 +19,11 @@ include "assets/components/header.php";
         <div class="row">
             <div class="col-12">
                 <div class="blog-text-banner mb-5">
-                    <h2 class="sec-hd">Contact Us</h2>
-                    <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard <br> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it</p>
+                    <h2 class="sec-hd" data-aos="fade-up">Contact Us</h2>
+                    <p class="text-center" data-aos="fade-up">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard <br> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it</p>
                 </div>
 
-                <form action="" class="form-contact">
+                <form action="" class="form-contact" data-aos="fade-up">
                     <h3 class="select-hd">Select Topic:</h3>
                     <div class="d-flex gap-5 flex-wrap justify-content-start">
                         <div class="radio-box">
@@ -57,7 +57,7 @@ include "assets/components/header.php";
                                     <input type="email" placeholder="Email">
                                 </div>
                                 <div class="fields-input">
-                                    <input type="email" placeholder="Email">
+                                    <input type="number" placeholder="phone Number">
                                 </div>
                             </div>
                             <div class="col-md-6 col-12">
@@ -85,11 +85,11 @@ include "assets/components/header.php";
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <div class="infor-sec-pd">
+                <div class="infor-sec-pd" data-aos="fade-right">
                     <h2 class="form-hd">Corporate Information</h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
-                <div class="infor-sec-pd">
+                <div class="infor-sec-pd" data-aos="fade-right">
                     <h2 class="form-hd">For Technical & Billing Support</h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                     <p><b>Email :</b> <a href="mailto:st@resumeabrm.com">st@resumeabrm.com</a></p>  
@@ -98,14 +98,14 @@ include "assets/components/header.php";
                     <p><b>Public Relations & Media Queries :</b> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>  
                     <p><b>Billing :</b> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>  
                 </div>
-                <div class="infor-sec-pd">
+                <div class="infor-sec-pd" data-aos="fade-right">
                     <h2 class="form-hd">Office Location:</h2>
                     <p><b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b></p>
                     <p>Lorem Ipsum is simply dummy text of the printing</p>  
                     <p>Lorem Ipsum is simply dummy text of the printing</p>  
                     <p>Lorem Ipsum is simply dummy text of the printing</p>  
                 </div>
-                <div class="infor-sec-pd">
+                <div class="infor-sec-pd" data-aos="fade-right">
                     <h2 class="form-hd">Link To Us:</h2>
                     <p>If you would like to link to us please use the link information below.</p>
                     <p><b>Title :</b> Resume Abrm</p>  
