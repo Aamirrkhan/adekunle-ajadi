@@ -15,8 +15,11 @@ body{
 }
 
 /* Section */
+.temp-two {
+    margin-bottom: 40px;
+}
 section.sec-template {
-    padding: 40px;
+    padding: 60px 70px;
     overflow: hidden;
 }
 .hd-temtwo {
@@ -50,4 +53,64 @@ section.sec-template {
 
 .senior-msg {
     position: relative;
+}
+.right {
+    text-align: right;
+    width: 100%;
+}
+.sub-para {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+ul.unlist li {
+    line-height: 1.5;
+    margin-bottom: 4px;
+    list-style: disc;
+}
+
+ul.unlist {
+    padding-left: 20px;
+}
+
+ul.unlist li::marker {
+    color: #a9a9a9;
+}
+.rows-temp h4 {
+    font-size: 24px;
+    color: black;
+    position: relative;
+    margin-bottom: 19px;
+    padding-bottom: 6px;
+}
+.rows-temp h4:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: var(--blue-color);
+    left: 0;
+    bottom: 0;
+}
+.sub-para a {
+    color: black;
+    text-decoration: none;
+}
+.sub-para i {
+    color: var(--blue-color);
+    margin-left: 13px;
+}
+strong {
+    font-weight: bold;
+    color: black;
+}
+.rows-temp {
+    margin-bottom: 26px;
+    width: 100%;
+}
+li.listnone {
+    list-style: none !important;
+    color: var(--blue-color);
+    margin-top: -5px;
 }
