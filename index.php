@@ -40,7 +40,7 @@
           </div>
           <div class="col-6">
             <div class="user-icons float-end">
-              <a href="http://"><i class="fa-solid fa-user"></i></a>
+              <a href="#!"><i class="fa-solid fa-user"></i></a>
             </div>
           </div>
         </div>

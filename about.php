@@ -1,5 +1,5 @@
 <?php
-include "assets/components/header.php";
+include "header.php";
 ?>
 <div class="humb-links">
     <div class="container">
@@ -30,7 +30,7 @@ include "assets/components/header.php";
 <section class="about-sec">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-12">
+            <div class="col-lg-6 col-12">
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-5">
                         <div class="about-iconbox" data-aos="fade-up">
@@ -62,8 +62,8 @@ include "assets/components/header.php";
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-12">
-                <div class="about-img-sec" data-aos="fade-left">
+            <div class="col-lg-6 col-12">
+                <div class="about-img-sec text-center" data-aos="fade-left">
                     <img src="assets/images/about-img.png" class="img-fluid">
                 </div>
             </div>
@@ -204,7 +204,7 @@ include "assets/components/header.php";
             <div class="col-12">
                 <img src="assets/images/logo.png" class="mt-5 mb-5 img-fluid">
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -233,5 +233,5 @@ include "assets/components/header.php";
     </div>
 </section>
 <?php
-include "assets/components/footer.php";
+    include "footer.php";
 ?>

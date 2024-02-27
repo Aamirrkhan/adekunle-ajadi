@@ -1,5 +1,5 @@
 <?php
-include "assets/components/header.php";
+include "header.php";
 ?>
 <div class="humb-links">
     <div class="container">
@@ -1801,21 +1801,10 @@ include "assets/components/header.php";
 
 
 <?php
-include "assets/components/footer.php";
+include "footer.php";
 ?>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
 <script>
-    // $(".colorbox").click(function() {
-    //     var newColor = $(this).data("bgcolor");
-    //     TweenMax.to("#color-code", 0.5, {
-    //         backgroundColor: newColor
-
-    //     });
-    //     TweenMax.to("#color-code", 0.5, {
-    //         backgroundColor: newColor
-
-    //     });
-    // });
     const colrBox = document.querySelectorAll(".colorbox")
     const colrCode = document.querySelectorAll(".color-code")
     const textColor = document.querySelectorAll(".text-clr")
@@ -1854,26 +1843,24 @@ include "assets/components/footer.php";
         slidesToShow: 3,
         slidesToScroll: 3,
         infinite: true,
-        dots: true
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
+    }
+},
+{
+    breakpoint: 600,
+    settings: {
         slidesToShow: 2,
-        slidesToScroll: 2
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
+        slidesToScroll: 2,
+        arrow: false
+    }
+},
+{
+    breakpoint: 480,
+    settings: {
         slidesToShow: 1,
-        slidesToScroll: 1
+        slidesToScroll: 1,
+        arrow: false
       }
     }
-    // You can unslick at a given breakpoint now by adding:
-    // settings: "unslick"
-    // instead of a settings object
   ]
 });
 </script>

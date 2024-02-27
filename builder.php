@@ -1,5 +1,5 @@
 <?php
-    include "assets/components/header.php";
+    include "header.php";
 ?>
     <section class="banner-sec">
       <div class="container">
@@ -548,5 +548,5 @@
 
 
     <?php
-    include "assets/components/footer.php";
+    include "footer.php";
 ?>

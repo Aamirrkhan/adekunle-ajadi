@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="../assets/css/slick.css" />
     <link rel="stylesheet" href="../assets/css/reset.css" />
     <link rel="stylesheet" href="../assets/css/steps-form.css" />
+    <link rel="stylesheet" href="../assets/css/reponsive.css" />
     <link rel="shortcut icon" href="../assets/images/logo-icon.png" type="image/x-icon" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -37,7 +38,7 @@
         <div class="container-fluid">
             <div class="cont-bg-set">
                 <div class="row justify-content-center">
-                    <div class="col-9">
+                    <div class="col-lg-9 col-12">
                         <div class="step-hd">
                             <h1>What’s the name of your high school?</h1>
                             <p class="step-center-para mt-4">This will help us recommend the best resume templates for your experience level.</p>

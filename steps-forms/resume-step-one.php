@@ -38,7 +38,7 @@
         <div class="container-fluid">
             <div class="cont-bg-set">
                 <div class="row justify-content-center">
-                    <div class="col-10">
+                    <div class="col-lg-10 col-12">
                         <div class="step-hd">
                             <h1>How would you like to start?</h1>
                         </div>
@@ -58,7 +58,7 @@
                                     <input type="file" name="" id="upload-resume">
                                     <label for="upload-resume">
                                         Upload Your Current Resume
-                                        <p>We'll move everything to your new template.</p>
+                                        <p class="pararbreak">We'll move everything to <br> your new template.</p>
                                         <!-- <p class="img-path-name">We'll move everything to your new template.</p> -->
                                     </label>
                                 </div>
