@@ -33,14 +33,14 @@
         <div class="row justify-content-between align-items-center">
           <div class="col-6">
             <div class="login">
-              <a href="" class="logo-text d-flex align-items-center">
+              <a href="builder.php" class="logo-text d-flex align-items-center">
                 <img src="assets/images/header-logo.png" alt="" class="img-fluid"/>
               </a>
             </div>
           </div>
           <div class="col-6">
             <div class="user-icons float-end">
-              <a href="http://"><i class="fa-solid fa-user"></i></a>
+              <a href="#!"><i class="fa-solid fa-user"></i></a>
             </div>
           </div>
         </div>
@@ -151,6 +151,8 @@
             </div>
         </div>
     </footer>
+    
+    
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/slick.min.js"></script>

@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+section.sec-template {
+  background: white;
+  padding: 50px;
+}
+.pdf-header {
+  background: #19509f;
+  padding: 40px 140px;
+  color: white;
+}
+
+.pdf-header h1 {
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+.pdf-header h4 {
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.mailto-box.float-end p {
+  color: white;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.mailto-box.float-end p a {
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.greybox-center {
+  text-align: center;
+  padding: 30px 50px;
+  margin-bottom: 20px;
+  background: #f5f5f5;
+}
+.greybox-center {
+  text-align: center;
+  padding: 30px 50px;
+  margin-bottom: 20px;
+  background: #f5f5f5;
+  line-height: 1.5;
+}
+
+.rightara-field {
+  margin-bottom: 10px;
+}
+
+.rightara-field h4 {
+  font-size: 25px;
+  color: #19509f;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.rightara-field h4 h6.subtitle {
+  color: black;
+}
+
+.rightara-field h6.subtitle strong {
+  font-weight: 700;
+}
+
+.rightara-field h6.subtitle {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.broderbtm-line {
+  font-size: 16px;
+  font-style: italic;
+  padding-bottom: 9px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #19509f;
+}
+
+ul.riggt-temparaea {
+  padding: 10px 30px;
+}
+
+ul.riggt-temparaea li {
+  margin-bottom: 6px;
+  list-style: disc;
+}

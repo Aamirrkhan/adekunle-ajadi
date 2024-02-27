@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+    --blue-color: #19509f;
+    --inter: 'Inter', sans-serif;
+    --poppins: 'Poppins', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    font-family: var(--poppins);
+}
+.rows-temp h5 {
+    margin-bottom: 7px;
+}
+/* Section */
+.temp-two {
+    margin-bottom: 40px;
+}
+section.sec-template {
+    padding: 60px 70px;
+    overflow: hidden;
+}
+.hd-temtwo {
+    margin-bottom: 40px;
+    width: fit-content;
+}
+.hd-temtwo h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+}
+.senior-msg h3 {
+    background: var(--blue-color);
+    padding: 10px 10px;
+    font-size: 25px;
+    color: white;
+    width: fit-content;
+}
+
+.senior-msg:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    background: var(--blue-color);
+    width: 100%;
+    height: 6px;
+    transform: translate(0%,-50%);
+    z-index: -9;
+}
+
+.senior-msg {
+    position: relative;
+}
+.right {
+    text-align: right;
+    width: 100%;
+}
+.sub-para {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+ul.unlist li {
+    line-height: 1.5;
+    margin-bottom: 4px;
+    list-style: disc;
+}
+
+ul.unlist {
+    padding-left: 20px;
+}
+
+ul.unlist li::marker {
+    color: #a9a9a9;
+}
+.rows-temp h4 {
+    font-size: 24px;
+    color: black;
+    position: relative;
+    margin-bottom: 19px;
+    padding-bottom: 6px;
+}
+.rows-temp h4:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: var(--blue-color);
+    left: 0;
+    bottom: 0;
+}
+.sub-para a {
+    color: black;
+    text-decoration: none;
+}
+.sub-para i {
+    color: var(--blue-color);
+    margin-left: 13px;
+}
+strong {
+    font-weight: bold;
+    color: black;
+}
+.rows-temp {
+    margin-bottom: 26px;
+    width: 100%;
+}
+li.listnone {
+    list-style: none !important;
+    color: var(--blue-color);
+    margin-top: -5px;
+}

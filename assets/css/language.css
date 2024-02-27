@@ -355,7 +355,8 @@
     transform: translateY(4px);
     transition: opacity .2s, -webkit-transform .2s ease-out;
     transition: opacity .2s, transform .2s ease-out;
-    transition: opacity .2s, transform .2s ease-out, -webkit-transform .2s ease-out
+    transition: opacity .2s, transform .2s ease-out, -webkit-transform .2s ease-out;
+    z-index: 9;
   }
   
   .language-picker__item {
