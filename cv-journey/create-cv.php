@@ -145,9 +145,10 @@ include './header-journey.php';
                               <div class="fields-line">
                                  <label for=""><span class="border-none">Description</span></label>
                                  <div class="img-fields">
-                                    <div class="flex-area-text">
+                                    <div class="flex-area-textcom">
                                        <textarea name="" placeholder="" id="company-discription"></textarea>
                                        <div class="buttonclone">
+                                          <button type="button" class="minusbtn">-</button>
                                           <button type="button" class="plusebtn">+</button>
                                        </div>
                                     </div>
@@ -200,10 +201,11 @@ include './header-journey.php';
                               <div class="fields-line">
                                  <label for=""><span class="border-none">Description</span></label>
                                  <div class="img-fields">
-                                    <div class="flex-area-text">
+                                    <div class="flex-area-textac">
                                        <textarea name="" placeholder="" id="institute-discr"></textarea>
                                        <div class="buttonclone">
-                                          <button type="button" class="plusebtn">+</button>
+                                          <button type="button" class="minusbtnac">-</button>
+                                          <button type="button" class="plusebtnac">+</button>
                                        </div>
                                     </div>
                                  </div>
@@ -735,63 +737,92 @@ include 'footer-journey.php';
    $(document).ready(function() {
       function updateParaExpirecnc() {
          $('.para-expirecnc').each(function(index) {
-            var value = $('.flex-area-text textarea').eq(index).val() || 'Default Text';
+            var value = $('.flex-area-textcom textarea').eq(index).val() || 'Default Text';
             $(this).text(value);
          });
       }
 
       $('.plusebtn').click(function() {
-         var $clone = $('.flex-area-text:last').clone(true);
+         var $clone = $('.flex-area-textcom:last').clone(true);
          $clone.find('textarea').val('');
-         $clone.insertAfter('.flex-area-text:last');
+         $clone.insertAfter('.flex-area-textcom:last');
          $('<li class="para-expirecnc"></li>').appendTo('.company-box');
          updateParaExpirecnc();
       });
       $(document).on('click', '.minusbtn', function() {
-         if ($('.flex-area-text').length > 1) {
-            var indexToRemove = $(this).closest('.flex-area-text').index();
-            $(this).closest('.flex-area-text').remove();
+         if ($('.flex-area-textcom').length > 1) {
+            var indexToRemove = $(this).closest('.flex-area-textcom').index();
+            $(this).closest('.flex-area-textcom').remove();
             $('.company-box .para-expirecnc').eq(indexToRemove).remove();
             updateParaExpirecnc();
          }
       });
-      $(document).on('input', '.flex-area-text textarea', function() {
+      $(document).on('input', '.flex-area-textcom textarea', function() {
          updateParaExpirecnc();
       });
    });
 </script>
 
-<!-- Academica Dicscription -->
 <script>
+   $(document).ready(function() {
+      function updateParaExpirecnc() {
+         $('.education-box-area .para-expirecnc').each(function(index) {
+            var value = $('.flex-area-textac textarea').eq(index).val() || 'Default Text';
+            $(this).text(value);
+         });
+      }
+
+      $('.plusebtnac').click(function() {
+         var $clone = $('.flex-area-textac:last').clone(true);
+         $clone.find('textarea').val('');
+         $clone.insertAfter('.flex-area-textac:last');
+         $('<li class="para-expirecnc"></li>').appendTo('.education-box-area');
+         updateParaExpirecnc();
+      });
+      $(document).on('click', '.minusbtnac', function() {
+         if ($('.flex-area-textac').length > 1) {
+            var indexToRemove = $(this).closest('.flex-area-textac').index();
+            $(this).closest('.flex-area-textac').remove();
+            $('.education-box-area .para-expirecnc').eq(indexToRemove).remove();
+            updateParaExpirecnc();
+         }
+      });
+      $(document).on('input', '.flex-area-textac textarea', function() {
+         updateParaExpirecnc();
+      });
+   });
+</script>
+<!-- Academica Dicscription -->
+<!-- <script>
    $(document).ready(function() {
       // Function to create or update <li> elements based on textareas
       function updateEducationLi() {
          $('.education-box-area li').remove(); // Remove existing <li>s to avoid duplication
-         $('.acadm-clone-box .flex-area-text textarea').each(function() {
+         $('.acadm-clone-box .flex-area-textac textarea').each(function() {
             var value = $(this).val() || 'Default Description';
             $('<li class="para-expirecnc-edu">' + value + '</li>').appendTo('.education-box-area');
          });
       }
 
       $('#academia-plus').click(function() {
-         var $clone = $('.acadm-clone-box .flex-area-text:last').clone(true);
+         var $clone = $('.acadm-clone-box .flex-area-textac:last').clone(true);
          $clone.find('textarea').val('');
-         $clone.insertAfter('.acadm-clone-box .flex-area-text:last');
+         $clone.insertAfter('.acadm-clone-box .flex-area-textac:last');
          updateEducationLi(); // Update the <li> elements to reflect the new textarea
       });
 
       $(document).on('click', '#academia-minu', function() {
-         if ($('.acadm-clone-box .flex-area-text').length > 1) {
-            $(this).closest('.flex-area-text').remove();
+         if ($('.acadm-clone-box .flex-area-textac').length > 1) {
+            $(this).closest('.flex-area-textac').remove();
             updateEducationLi(); // Update the <li> elements after removing a textarea
          }
       });
 
-      $(document).on('input', '.acadm-clone-box .flex-area-text textarea', function() {
+      $(document).on('input', '.acadm-clone-box .flex-area-textac textarea', function() {
          updateEducationLi(); // Update <li> elements as the user types in a textarea
       });
    });
-</script>
+</script> -->
 <script>
    $(document).ready(function() {
       var cloneCounter = 1;
