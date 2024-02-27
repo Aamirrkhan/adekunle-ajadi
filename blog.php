@@ -1,5 +1,5 @@
 <?php
-include "assets/components/header.php";
+include "header.php";
 ?>
 <div class="humb-links">
     <div class="container">
@@ -881,6 +881,6 @@ include "assets/components/header.php";
 
 
 <?php
-include "assets/components/footer.php";
+include "footer.php";
 ?>
 <script src="assets/js/blogs.js"></script>

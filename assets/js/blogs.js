@@ -8,8 +8,6 @@ function setActive(index) {
     }
   });
 }
-
-// Check the current URL and set active class accordingly
 document.addEventListener("DOMContentLoaded", function () {
   var currentUrl = window.location.href;
   var links = document.querySelectorAll(".humb-links-list li a");
@@ -19,10 +17,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
-
 const tabs = document.querySelectorAll("[data-tab-target]");
 const tabContents = document.querySelectorAll("[data-tab-content]");
-
 tabs.forEach((tab) => {
   tab.addEventListener("click", () => {
     const target = document.querySelector(tab.dataset.tabTarget);

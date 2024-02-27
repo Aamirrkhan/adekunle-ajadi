@@ -1,5 +1,5 @@
 <?php
-include "assets/components/header.php";
+include "header.php";
 ?>
 <div class="humb-links">
     <div class="container">
@@ -49,30 +49,43 @@ include "assets/components/header.php";
                     </div>
                     <div class="fileds-area">
                         <div class="row justify-content-between">
+                            <div class="col-12">
+                                <p class="contect-para">Resume Abrm is committed to accessibility, diversity, and inclusion for all its user. We believe everyone should be able to easily build, create and search for jobs online at <a href="www.resumeabrm.com">www.resumeabrm.com</a>. Use our online service in compliance with all laws and guidelines. as well as the Website Content Accessibility Guidelines (WCAG) provided by the World Wide Web Consortium. Our team is filled with professionals who are dedicated to making your online experiences the best they can be. We welcome feedback from user experiences. If you have any questions about our accessibility features, please contact us at <a href="mailto:st@resumeabrm.com">st@resumeabrm.com</a></p>
+                                <p class="contect-para">To improve your best experience with our site, we recommend browser combinations and screen reader.</p>
+                                <p class="contect-para"><strong>For mac users:</strong> voiceover and Safari</p>
+                                <p class="contect-para"><strong>For windows users:</strong> NVDA and Chrome or Edge</p>
+                                <p class="contect-para mb-5"><strong>For mobile users:</strong> Voiceover for the iPhone and Talkback for Android devices</p>
+                                
+                            </div>
+                                <h4 class="emailtext">Email Us</h4>
                             <div class="col-md-6 col-12">
                                 <div class="fields-input">
                                     <input type="text" placeholder="Name">
                                 </div>
                                 <div class="fields-input">
-                                    <input type="email" placeholder="Email">
+                                    <input type="email" placeholder="Email Address">
                                 </div>
                                 <div class="fields-input">
-                                    <input type="number" placeholder="phone Number">
+                                    <!--<input type="number" placeholder="phone Number">-->
+                                    <textarea placeholder="Subject" name="" id="" class="question-commit"></textarea>
                                 </div>
                             </div>
                             <div class="col-md-6 col-12">
                                 <div class="fields-input">
-                                    <textarea placeholder="Message" name="" id="" cols="30" rows="10"></textarea>
+                                    <textarea placeholder="Write your Question" name="" id="" cols="30" rows="10"></textarea>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between align-items-center gap-3 flex-wrap">
                         <div>
-                            <p class="contact-para">This site is protected by reCAPTCHA & Google’s <a href="javascript:void()">Privacy Policy</a> and <a href="javascript:void()">Terms of Service</a> apply.</p>
+                            <p class="contact-para">ResumeAbrm.com is owned by Abrm Technology llc</p>
                         </div>
+                        <!--<div>-->
+                        <!--    <p class="contact-para">This site is protected by reCAPTCHA & Google’s <a href="javascript:void()">Privacy Policy</a> and <a href="javascript:void()">Terms of Service</a> apply.</p>-->
+                        <!--</div>-->
                         <div>
-                            <button type="submit" class="body-btn">Submit</button>
+                            <button type="submit" class="body-btn">Summit Email</button>
                         </div>
                     </div>
                 </form>
@@ -118,5 +131,5 @@ include "assets/components/header.php";
 </section>
 
 <?php
-include "assets/components/footer.php";
+include "footer.php";
 ?>

@@ -13,7 +13,9 @@ body{
     background-color: white;
     font-family: var(--poppins);
 }
-
+.rows-temp h5 {
+    margin-bottom: 7px;
+}
 /* Section */
 .temp-two {
     margin-bottom: 40px;

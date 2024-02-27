@@ -98,45 +98,40 @@ $(".mobile-menu-closed").click(function () {
   $(".mobile-humber").removeClass("active");
 });
 
-const websiteSection = document.querySelectorAll('.cover-list-btn a');
-const webList = document.querySelectorAll('.tb-list');
+const websiteSection = document.querySelectorAll(".cover-list-btn a");
+const webList = document.querySelectorAll(".tb-list");
 
 websiteSection.forEach(function (item) {
-  item.addEventListener('click', function (e) {
+  item.addEventListener("click", function (e) {
     e.preventDefault();
 
     // Remove "active" class from all elements
     webList.forEach(function (listItem) {
-      listItem.classList.remove('active');
+      listItem.classList.remove("active");
     });
 
     // Add "active" class to the clicked element
     const parentListItem = item.parentElement;
-    parentListItem.classList.add('active');
+    parentListItem.classList.add("active");
   });
 });
-
-
-$('.resume-drop').mouseenter(function (){
-    $('.resume-drop .dropdown').addClass('active')
-    $('.resume-drop .dropdown-toggle').addClass('show')
-    $('.resume-drop .dropdown-menu').addClass('show')
-})
-$('.resume-drop').mouseleave(function (){
-    $('.dropdown').removeClass('active')
-    $('.resume-drop .dropdown-toggle').removeClass('show')
-    $('.resume-drop .dropdown-menu').removeClass('show')
-})
-
-
-
-$('.coverr-drop').mouseenter(function (){
-    $('.coverr-drop .dropdown').addClass('active')
-    $('.coverr-drop .dropdown-toggle').addClass('show')
-    $('.coverr-drop .dropdown-menu').addClass('show')
-})
-$('.coverr-drop').mouseleave(function (){
-    $('.coverr-drop .dropdown').removeClass('active')
-    $('.coverr-drop .dropdown-toggle').removeClass('show')
-    $('.coverr-drop .dropdown-menu').removeClass('show')
-})
+$(".resume-drop").mouseenter(function () {
+  $(".resume-drop .dropdown").addClass("active");
+  $(".resume-drop .dropdown-toggle").addClass("show");
+  $(".resume-drop .dropdown-menu").addClass("show");
+});
+$(".resume-drop").mouseleave(function () {
+  $(".dropdown").removeClass("active");
+  $(".resume-drop .dropdown-toggle").removeClass("show");
+  $(".resume-drop .dropdown-menu").removeClass("show");
+});
+$(".coverr-drop").mouseenter(function () {
+  $(".coverr-drop .dropdown").addClass("active");
+  $(".coverr-drop .dropdown-toggle").addClass("show");
+  $(".coverr-drop .dropdown-menu").addClass("show");
+});
+$(".coverr-drop").mouseleave(function () {
+  $(".coverr-drop .dropdown").removeClass("active");
+  $(".coverr-drop .dropdown-toggle").removeClass("show");
+  $(".coverr-drop .dropdown-menu").removeClass("show");
+});

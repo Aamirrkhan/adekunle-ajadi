@@ -1,5 +1,5 @@
 <?php
-    include "assets/components/header.php";
+    include "header.php";
 ?>
 
 <section class="privacy-content">
@@ -79,5 +79,5 @@
 </section>
 
 <?php
-    include "assets/components/footer.php";
+    include "footer.php";
 ?>
