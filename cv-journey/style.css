@@ -472,7 +472,7 @@ span.stepIndicator.active {
   border: 1px solid #7e7e7e;
   border-radius: 5px;
   background: white;
-  height: 45px;
+  height: 105px;
   resize: none;
   line-height: 1.5;
 }
@@ -573,7 +573,7 @@ span.stepIndicator.active {
   border-radius: 10px;
 }
 .inputperez textarea {
-  height: 56px;
+  height: 105px;
   width: 100%;
   resize: none;
 }
@@ -1660,6 +1660,7 @@ h4.subject-para {
   font-weight: 400;
   line-height: 1.2;
   margin: 8px 0;
+  list-style: disc;
 }
 span.font-weight-thin {
   font-weight: 400;
@@ -2133,7 +2134,6 @@ button.border-none img {
   height: auto;
 }
 
-
 li.para-expirecnc-edu {
   font-size: 12px;
   font-weight: 400;
@@ -2204,4 +2204,7 @@ button.minusbtnac {
   .conbox {
     width: 62%;
   }
+}
+ul.listdiscr {
+  padding-left: 17px;
 }

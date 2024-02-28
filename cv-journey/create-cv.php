@@ -15,7 +15,6 @@ include './header-journey.php';
                      <span class="stepIndicator">Languages</span>
                      <span class="stepIndicator">Skills</span>
                      <span class="stepIndicator">Certifications</span>
-                     <!-- <span class="stepIndicator">Finalize</span> -->
                   </div>
                </div>
                <div class="forms-inputs-divz">
@@ -67,12 +66,7 @@ include './header-journey.php';
                                  <input type="text" placeholder="" id="address-fields">
                               </div>
                            </div>
-                           <!-- <div class="fields-line last-fields">
-                                 <label for=""><span>Website</span><input type="text" id="labeltextchange" placeholder="Website"></label>
-                                 <div class="img-fields">
-                                    <input type="text" placeholder="" id="website-fields">
-                                 </div>
-                              </div> -->
+                           
                         </div>
                         <div class="addmore-btn">
                            <button id="profile-addmore"></button>
@@ -147,10 +141,6 @@ include './header-journey.php';
                                  <div class="img-fields">
                                     <div class="flex-area-textcom">
                                        <textarea name="" placeholder="" id="company-discription"></textarea>
-                                       <div class="buttonclone">
-                                          <button type="button" class="minusbtn">-</button>
-                                          <button type="button" class="plusebtn">+</button>
-                                       </div>
                                     </div>
                                  </div>
                               </div>
@@ -183,7 +173,6 @@ include './header-journey.php';
                                  <label for=""><span>Institute Name:</span></label>
                                  <div class="img-fields">
                                     <input type="text" placeholder="" id="institute-name">
-
                                  </div>
                               </div>
                               <div class="fields-line">
@@ -198,21 +187,6 @@ include './header-journey.php';
                                     <input type="text" placeholder="" id="completion-year">
                                  </div>
                               </div>
-                              <div class="fields-line">
-                                 <label for=""><span class="border-none">Description</span></label>
-                                 <div class="img-fields">
-                                    <div class="flex-area-textac">
-                                       <textarea name="" placeholder="" id="institute-discr"></textarea>
-                                       <div class="buttonclone">
-                                          <button type="button" class="minusbtnac">-</button>
-                                          <button type="button" class="plusebtnac">+</button>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <button type="button" class="drage-btn">
-                                 <i class="fa-solid fa-bars"></i>
-                              </button>
                            </div>
                         </div>
                      </div>
@@ -300,7 +274,6 @@ include './header-journey.php';
                                     <input type="text" placeholder="" id="certifications-fields">
                                  </div>
                               </div>
-
                            </div>
                         </div>
                      </div>
@@ -308,8 +281,6 @@ include './header-journey.php';
                         <button type="button" class="certificate-more-btn">+ Add More</button>
                      </div>
                   </div>
-
-
                </div>
                <div class="cv-preview-temp">
                   <!-- <section class="template-one">
@@ -365,7 +336,9 @@ include './header-journey.php';
                                        <h4 class="subject-hd compny-name">MAINTENANCE AND ENGINEERING MANAGER</h4>
                                     </div>
                                     <h4 class="subject-para position-text">lott Incorporation, Texas</h4>
-                                    <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                    <ul class="listdiscr">
+                                       <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                    </ul>
                                  </div>
                               </div>
                            </div>
@@ -387,7 +360,7 @@ include './header-journey.php';
                            </div>
                         </div>
                      </div>
-                  </section> -->
+                     </section> -->
                   <!-- <section class="template-two">
                      <div class="preview-cv-template">
                         <div class="profile-tem">
@@ -421,7 +394,9 @@ include './header-journey.php';
                                           <h4 class="subject-hd date-company">July 2020 - Present</h4>
                                        </div>
                                        <h4 class="subject-para position-text">lott Incorporation, Texas</h4>
-                                       <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                       <ul class="listdiscr">
+                                          <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                       </ul>
                                     </div>
                                  </div>
                               </div>
@@ -469,7 +444,7 @@ include './header-journey.php';
                            </div>
                         </div>
                      </div>
-                  </section> -->
+                     </section> -->
                   <!-- <section class="template-three">
                      <div class="preview-cv-template">
                         <div class="flex-third-cv">
@@ -504,7 +479,9 @@ include './header-journey.php';
                                              <h4 class="subject-hd compny-name">MAINTENANCE AND ENGINEERING MANAGER</h4>
                                           </div>
                                           <h4 class="subject-para position-text">lott Incorporation, Texas</h4>
-                                          <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                          <ul class="listdiscr">
+                                           <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                          </ul>
                                        </div>
                                     </div>
                                  </div>
@@ -549,89 +526,91 @@ include './header-journey.php';
                            </div>
                         </div>
                      </div>
-                  </section> -->
-                  <!-- <section class="template-four">
-                     <div class="preview-cv-template">
-                        <div class="four-head">
-                           <h1 class="name-fields">EMILY DAVID</h1>
-                           <div class="span-line"></div>
-                           <h4 class="position-company">SENIOR MAINTENANCE MANAGER</h4>
-                        </div>
-                        <div class="flex-area-contect-expir">
-                           <div class="expri-box-four">
-                              <div class="expirence-box">
-                                 <div class="expirence">
-                                    <h4 class="hd-line-btm">Experience</h4>
-                                    <div data-group="clone-group-0" class="company-box-container">
-                                       <div class="company-box">
-                                          <div class="">
-                                             <h4 class="subject-hd compny-name">MAINTENANCE AND ENGINEERING MANAGER</h4>
+                     </section> -->
+                  <!--<section class="template-four">
+                        <div class="preview-cv-template">
+                           <div class="four-head">
+                              <h1 class="name-fields">EMILY DAVID</h1>
+                              <div class="span-line"></div>
+                              <h4 class="position-company">SENIOR MAINTENANCE MANAGER</h4>
+                           </div>
+                           <div class="flex-area-contect-expir">
+                              <div class="expri-box-four">
+                                 <div class="expirence-box">
+                                    <div class="expirence">
+                                       <h4 class="hd-line-btm">Experience</h4>
+                                       <div data-group="clone-group-0" class="company-box-container">
+                                          <div class="company-box">
+                                             <div class="">
+                                                <h4 class="subject-hd compny-name">MAINTENANCE AND ENGINEERING MANAGER</h4>
+                                             </div>
+                                             <div class="d-flex gap-2 align-items-center">
+                                                <h4 class="subject-hd date-company">July 2020 - Present</h4> <span>|</span>
+                                                <h4 class="subject-para position-text">lott Incorporation, Texas</h4>
+                                             </div>
+                                             <ul class="listdiscr">
+                                                <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                             </ul>
                                           </div>
-                                          <div class="d-flex gap-2 align-items-center">
-                                             <h4 class="subject-hd date-company">July 2020 - Present</h4> <span>|</span>
-                                             <h4 class="subject-para position-text">lott Incorporation, Texas</h4>
-                                          </div>
-                                          <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
                                        </div>
                                     </div>
                                  </div>
-                              </div>
-                              <div class="education-box">
-                                 <div class="education-data">
-                                    <h4 class="hd-line-btm">Education</h4>
-                                    <div data-group="clone-group-0" class="education-box-area-container">
-                                       <div class="mb-3 education-box-area">
-                                          <h4 class="subject-hd institute-discr-para">MASTERS IN ENGINEERING MANAGEMENT CANDIDATE</h4>
-                                          <span class="degree-name">Expected graduation</span><span class="degree-date">Jan 2024</span>
-                                          <div><span class="font-weight-thin institute-nme"> ROWAN UNIVERSITY — NJ</span></div>
+                                 <div class="education-box">
+                                    <div class="education-data">
+                                       <h4 class="hd-line-btm">Education</h4>
+                                       <div data-group="clone-group-0" class="education-box-area-container">
+                                          <div class="mb-3 education-box-area">
+                                             <h4 class="subject-hd institute-discr-para">MASTERS IN ENGINEERING MANAGEMENT CANDIDATE</h4>
+                                             <span class="degree-name">Expected graduation</span><span class="degree-date">Jan 2024</span>
+                                             <div><span class="font-weight-thin institute-nme"> ROWAN UNIVERSITY — NJ</span></div>
+                                          </div>
                                        </div>
                                     </div>
                                  </div>
+                                 <div class="skills-box">
+                                    <h4 class="hd-line-btm">Skills</h4>
+                                    <ul class="skills-ul">
+                                       <div data-group="clone-group-0" class="skills-content">
+                                          <li class="skills-lists">Safety Monitoring</li>
+                                       </div>
+                                    </ul>
+                                 </div>
+                                 <div class="skills-box">
+                                    <h4 class="hd-line-btm">Certifications</h4>
+                                    <ul class="certiciation-ul">
+                                       <div data-group="clone-group-0" class="certi-content-box">
+                                          <li class="certiciation-list">Safety Monitoring</li>
+                                       </div>
+                                    </ul>
+                                 </div>
+                                 <div class="laguage-box">
+                                    <h4 class="hd-line-btm">Languages</h4>
+                                    <ul class="laguage-ul">
+                                       <div data-group="clone-group-0" class="language-box-area-container">
+                                          <li class="lang-list">English</li>
+                                       </div>
+                                    </ul>
+                                 </div>
                               </div>
-                              <div class="skills-box">
-                                 <h4 class="hd-line-btm">Skills</h4>
-                                 <ul class="skills-ul">
-                                    <div data-group="clone-group-0" class="skills-content">
-                                       <li class="skills-lists">Safety Monitoring</li>
-                                    </div>
-                                 </ul>
-                              </div>
-                              <div class="skills-box">
-                                 <h4 class="hd-line-btm">Certifications</h4>
-                                 <ul class="certiciation-ul">
-                                    <div data-group="clone-group-0" class="certi-content-box">
-                                       <li class="certiciation-list">Safety Monitoring</li>
-                                    </div>
-                                 </ul>
-                              </div>
-                              <div class="laguage-box">
-                                 <h4 class="hd-line-btm">Languages</h4>
-                                 <ul class="laguage-ul">
-                                    <div data-group="clone-group-0" class="language-box-area-container">
-                                       <li class="lang-list">English</li>
-                                    </div>
-                                 </ul>
-                              </div>
-                           </div>
-                           <div class="contact-box-four">
-                              <div class="contact">
-                                 <h4 class="hd-line-btm">CONTACT</h4>
-                                 <ul class="list-cont">
-                                    <li class=""><i class="fa-solid fa-phone"></i><span class="text-phone"> (234) 567-8900</span> <span class="icon-list"></span></li>
-                                    <li class=""><i class="fa-regular fa-envelope"></i><span class="text-email"> Emily@yahoo.com</span> <span class="icon-list"></span></li>
-                                    <li class=""><i class="fa-solid fa-location-pin"></i> <span class="text-address">North Brunswick, New york 08873 address</span> <span class="icon-list"></span></li>
-                                 </ul>
-                              </div>
-                              <div class="expiren">
-                                 <h4 class="hd-line-btm">CAREER OBJECTIVE</h4>
-                                 <p class="aboutme-para">
-                                    Resume Summary Strong attention to detail highlights. Including the Ability to grasp technical concepts quickly and apply that knowledge to Maintenance and Engineering efforts within the team. Knowledge in building distributed, highly available applications. Manage engineering team and maintain
-                                 </p>
+                              <div class="contact-box-four">
+                                 <div class="contact">
+                                    <h4 class="hd-line-btm">CONTACT</h4>
+                                    <ul class="list-cont">
+                                       <li class=""><i class="fa-solid fa-phone"></i><span class="text-phone"> (234) 567-8900</span> <span class="icon-list"></span></li>
+                                       <li class=""><i class="fa-regular fa-envelope"></i><span class="text-email"> Emily@yahoo.com</span> <span class="icon-list"></span></li>
+                                       <li class=""><i class="fa-solid fa-location-pin"></i> <span class="text-address">North Brunswick, New york 08873 address</span> <span class="icon-list"></span></li>
+                                    </ul>
+                                 </div>
+                                 <div class="expiren">
+                                    <h4 class="hd-line-btm">CAREER OBJECTIVE</h4>
+                                    <p class="aboutme-para">
+                                       Resume Summary Strong attention to detail highlights. Including the Ability to grasp technical concepts quickly and apply that knowledge to Maintenance and Engineering efforts within the team. Knowledge in building distributed, highly available applications. Manage engineering team and maintain
+                                    </p>
+                                 </div>
                               </div>
                            </div>
                         </div>
-                     </div>
-                  </section> -->
+                      </section> -->
                   <section class="templ-five">
                      <div class="preview-cv-template">
                         <div class="blue-bg-area">
@@ -642,13 +621,16 @@ include './header-journey.php';
                            <div class="conbox">
                               <ul class="list-cont">
                                  <li class="">
-                                    <div class="text-con">Phone Number </div><span class="text-phone"> (234) 567-8900</span> <span class="icon-list"></span>
+                                    <div class="text-con">Phone Number </div>
+                                    <span class="text-phone"> (234) 567-8900</span> <span class="icon-list"></span>
                                  </li>
                                  <li class="">
-                                    <div class="text-con">Email</div><span class="text-email"> Emily@yahoo.com</span> <span class="icon-list"></span>
+                                    <div class="text-con">Email</div>
+                                    <span class="text-email"> Emily@yahoo.com</span> <span class="icon-list"></span>
                                  </li>
                                  <li class="">
-                                    <div class="text-con">Address</div> <span class="text-address">North Brunswick, New york 08873 address</span> <span class="icon-list"></span>
+                                    <div class="text-con">Address</div>
+                                    <span class="text-address">North Brunswick, New york 08873 address</span> <span class="icon-list"></span>
                                  </li>
                               </ul>
                            </div>
@@ -668,7 +650,9 @@ include './header-journey.php';
                                        <h4 class="subject-para position-text">lott Incorporation, Texas</h4>
                                        <h4 class="subject-hd date-company">July 2020 - Present</h4>
                                     </div>
-                                    <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                    <ul class="listdiscr">
+                                       <li class="para-expirecnc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At nostrum sunt illum, suscipit ab numquam molestiae possimus rerum sint error et optio nemo perspiciatis in quidem nobis cum inventore alias.</li>
+                                    </ul>
                                  </div>
                               </div>
                            </div>
@@ -716,7 +700,6 @@ include './header-journey.php';
                      <button type="button" onclick="captureAndDownloadCV()" class="btn-download">Download CV</button>
                   </div>
                </div>
-
             </div>
          </form>
       </div>
@@ -727,102 +710,10 @@ include 'footer-journey.php';
 ?>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.2/html2canvas.min.js"></script>
-
 <script src="step-form.js"></script>
 <script src="cv-preivew.js"></script>
 <script src="../assets/js/language.js"></script>
-
 <!-- Company Discription -->
-<script>
-   $(document).ready(function() {
-      function updateParaExpirecnc() {
-         $('.para-expirecnc').each(function(index) {
-            var value = $('.flex-area-textcom textarea').eq(index).val() || 'Default Text';
-            $(this).text(value);
-         });
-      }
-
-      $('.plusebtn').click(function() {
-         var $clone = $('.flex-area-textcom:last').clone(true);
-         $clone.find('textarea').val('');
-         $clone.insertAfter('.flex-area-textcom:last');
-         $('<li class="para-expirecnc"></li>').appendTo('.company-box');
-         updateParaExpirecnc();
-      });
-      $(document).on('click', '.minusbtn', function() {
-         if ($('.flex-area-textcom').length > 1) {
-            var indexToRemove = $(this).closest('.flex-area-textcom').index();
-            $(this).closest('.flex-area-textcom').remove();
-            $('.company-box .para-expirecnc').eq(indexToRemove).remove();
-            updateParaExpirecnc();
-         }
-      });
-      $(document).on('input', '.flex-area-textcom textarea', function() {
-         updateParaExpirecnc();
-      });
-   });
-</script>
-
-<script>
-   $(document).ready(function() {
-      function updateParaExpirecnc() {
-         $('.education-box-area .para-expirecnc').each(function(index) {
-            var value = $('.flex-area-textac textarea').eq(index).val() || 'Default Text';
-            $(this).text(value);
-         });
-      }
-
-      $('.plusebtnac').click(function() {
-         var $clone = $('.flex-area-textac:last').clone(true);
-         $clone.find('textarea').val('');
-         $clone.insertAfter('.flex-area-textac:last');
-         $('<li class="para-expirecnc"></li>').appendTo('.education-box-area');
-         updateParaExpirecnc();
-      });
-      $(document).on('click', '.minusbtnac', function() {
-         if ($('.flex-area-textac').length > 1) {
-            var indexToRemove = $(this).closest('.flex-area-textac').index();
-            $(this).closest('.flex-area-textac').remove();
-            $('.education-box-area .para-expirecnc').eq(indexToRemove).remove();
-            updateParaExpirecnc();
-         }
-      });
-      $(document).on('input', '.flex-area-textac textarea', function() {
-         updateParaExpirecnc();
-      });
-   });
-</script>
-<!-- Academica Dicscription -->
-<!-- <script>
-   $(document).ready(function() {
-      // Function to create or update <li> elements based on textareas
-      function updateEducationLi() {
-         $('.education-box-area li').remove(); // Remove existing <li>s to avoid duplication
-         $('.acadm-clone-box .flex-area-textac textarea').each(function() {
-            var value = $(this).val() || 'Default Description';
-            $('<li class="para-expirecnc-edu">' + value + '</li>').appendTo('.education-box-area');
-         });
-      }
-
-      $('#academia-plus').click(function() {
-         var $clone = $('.acadm-clone-box .flex-area-textac:last').clone(true);
-         $clone.find('textarea').val('');
-         $clone.insertAfter('.acadm-clone-box .flex-area-textac:last');
-         updateEducationLi(); // Update the <li> elements to reflect the new textarea
-      });
-
-      $(document).on('click', '#academia-minu', function() {
-         if ($('.acadm-clone-box .flex-area-textac').length > 1) {
-            $(this).closest('.flex-area-textac').remove();
-            updateEducationLi(); // Update the <li> elements after removing a textarea
-         }
-      });
-
-      $(document).on('input', '.acadm-clone-box .flex-area-textac textarea', function() {
-         updateEducationLi(); // Update <li> elements as the user types in a textarea
-      });
-   });
-</script> -->
 <script>
    $(document).ready(function() {
       var cloneCounter = 1;
@@ -857,8 +748,27 @@ include 'footer-journey.php';
             case 2:
                correspondingCompanyBox.find('.date-company').text($(this).val());
                break;
-            case 3:
-               correspondingCompanyBox.find('.para-expirecnc').text($(this).val());
+            case 3: // Assuming this is the case for our textarea
+               var textareaValue = $(this).val();
+               var lines = textareaValue.split('\n');
+               var list = correspondingCompanyBox.find('.listdiscr').first(); // Ensure you have a .listdiscr class in your correspondingCompanyBox
+
+               // Update the first list item or create it if it doesn't exist
+               if (list.find('li').length > 0) {
+                  list.find('li:first').text(lines[0] || 'default text');
+               } else {
+                  list.prepend($('<li>').text(lines[0] || 'default text'));
+               }
+
+               // Clear existing items except the first
+               list.find('li:not(:first)').remove();
+
+               // Add new items from the textarea lines, starting from the second line
+               $.each(lines, function(index, line) {
+                  if (index > 0) { // Skip the first line as it's already updated
+                     list.append($('<li class="para-expirecnc">').text(line));
+                  }
+               });
                break;
          }
       });
